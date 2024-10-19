@@ -1,2 +1,2 @@
-# Pizza-sales-
+# Pizza-sales-analysis
 pizza sales analysis using sql 
